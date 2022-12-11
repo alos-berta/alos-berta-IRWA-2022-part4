@@ -1,1 +1,3 @@
 # alos-berta-IRWA-2022-part4
+First of all run the web_app.py file. Then, click on the IP that will be displayed on the terminal. You will be redirected to our webapp.Once there, you will be able to search queries. To do so, you will have to enter the desired query in the search bar and click on search option. Once clicked, some links will be  displayed. You will be able to click on them. After clicking on the link, information about the document will be displayed.Then you can go back and search for another query or continue clicking other links.
+Moreover, when you enter statistics you can see info about the documents you have clicked as well as the number of visits and the queries' length. In addition, if you enter  dashboards, you will be able to see usage statistics.
